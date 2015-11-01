@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-11-01T21:58:08.747Z'
-dateModified: '2015-11-01T21:57:54.287Z'
+datePublished: '2015-11-01T21:59:00.957Z'
+dateModified: '2015-11-01T21:58:51.918Z'
 title: we are developing next generation personal financial budgeting services...
 author: []
 authors: []
