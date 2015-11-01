@@ -1,0 +1,23 @@
+name: vorosoft
+favicon: null
+layout_spectrum: 0.3552680625580251
+typography_spectrum: 0.7646042716223747
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.30614776420406997
+  lightness: 0.4485471174120903
+  saturation: 0.9563460375647992
+  rhythmicContrast: 0.10240713320672512
+purpose: []
