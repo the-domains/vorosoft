@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[vorosoft]]></title>
+        <description><![CDATA[vorosoft]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 02 Nov 2015 02:14:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb7650c4-7378-4c45-9e60-a960f79915e0.jpg" alt="Budgeting" title="">]]></description>
+            <link>undefined7c570590-67e2-4ba4-9c50-3e051e9e1f79/index.html</link>
+            <guid isPermaLink="false">7c570590-67e2-4ba4-9c50-3e051e9e1f79</guid>
+            <pubDate>Mon, 02 Nov 2015 02:13:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
