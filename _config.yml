@@ -1,6 +1,6 @@
 name: vorosoft
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.54697
 title: vorosoft
 cta:
@@ -22,7 +22,7 @@ color:
     - '#c4c6c5'
     - '#f788a8'
     - '#000000'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 1
   saturation: 0
   rhythmicContrast: 0.75
