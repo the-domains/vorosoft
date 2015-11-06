@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[vorosoft]]></title>
         <description><![CDATA[vorosoft]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vorosoft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Nov 2015 02:14:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 Nov 2015 00:43:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vorosoft/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<h1>About</h1>]]></description>
+            <link>https://thegrid.ai/vorosoft/about/index.html</link>
+            <guid isPermaLink="false">9ef62df4-b57d-4012-a017-f1db0e13a40c</guid>
+            <pubDate>Fri, 06 Nov 2015 00:42:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb7650c4-7378-4c45-9e60-a960f79915e0.jpg" alt="Budgeting" title="">]]></description>
-            <link>undefined7c570590-67e2-4ba4-9c50-3e051e9e1f79/index.html</link>
+            <link>https://thegrid.ai/vorosoft/7c570590-67e2-4ba4-9c50-3e051e9e1f79/index.html</link>
             <guid isPermaLink="false">7c570590-67e2-4ba4-9c50-3e051e9e1f79</guid>
             <pubDate>Mon, 02 Nov 2015 02:13:54 GMT</pubDate>
         </item>
