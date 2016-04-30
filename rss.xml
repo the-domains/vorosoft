@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[vorosoft]]></title>
         <description><![CDATA[vorosoft]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vorosoft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 03:07:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 03:15:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vorosoft/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>vorosoft is designing next generation personal financial management software services you can access anywhere, any time and, from any device.</p>]]></description>
-            <link>undefinedvorosoft-is-designing-next-generation-personal-financial-man/index.html</link>
+            <description><![CDATA[<p>vorosoft is designing next generation personal financial management software services you can access anywhere, any time, from any device.</p>]]></description>
+            <link>https://thegrid.ai/vorosoft/vorosoft-is-designing-next-generation-personal-financial-man/index.html</link>
             <guid isPermaLink="false">67c3a700-9ace-46a6-a809-c993617af90c</guid>
-            <pubDate>Sat, 30 Apr 2016 03:07:55 GMT</pubDate>
+            <pubDate>Sat, 30 Apr 2016 03:15:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
